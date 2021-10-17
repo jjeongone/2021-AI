@@ -1,4 +1,4 @@
-## ID: 20180438 NAME: Choi Jeongwon
+## ID:  NAME:
 ######################################################################################
 # Problem 2a
 # minimax value of the root node: 6
